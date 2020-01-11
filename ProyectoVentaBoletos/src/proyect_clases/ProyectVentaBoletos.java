@@ -4,7 +4,7 @@ import proyect_gui.GUI_Principal;
 import proyect_gui.GUIi_AccesoSistema;
 
 
-public class ProyectoVentaBoletos {
+public class ProyectVentaBoletos {
    
     public static void main(String[] args) {
     
